@@ -1,0 +1,1 @@
+- [x] Add default date check in get_cause_list_for_date function to prevent API requests for dates after today

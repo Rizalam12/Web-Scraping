@@ -1,0 +1,12 @@
+{
+  "query": {
+    "cnr": null,
+    "case_type": "CIVIL",
+    "case_no": "123",
+    "case_year": "2024",
+    "date": "2025-10-16"
+  },
+  "listed": false,
+  "matches": [],
+  "cause_list_count": 0
+}
